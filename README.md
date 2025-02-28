@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/ASITHA-MD/BOT-NEW">
-    <img src=https://i.ibb.co/0GhKf6N/20241120-113020.jpg"  width="700px">
+    <img src=https://i.ibb.co/Kx8t3tdj/233.jpg"  width="700px">
 </a>
 <hr>
  <p align="center">
@@ -47,12 +47,12 @@
 <hr>
 <b>GET SESSION ID VIA PAIR CODE 01</b>
 
-<a href='https://pair-web.asitha.us.kg' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='https://asitha.top' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <hr>
 <b>GET SESSION ID VIA PAIR CODE 02</b>
 
-<a href='https://willing-gertrude-asitha-4de0249e.koyeb.app/' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
+<a href='asitha.top' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 <hr>
 
